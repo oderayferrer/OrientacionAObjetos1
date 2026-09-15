@@ -1,0 +1,6 @@
+INDEX VERSION 1.134+C:\Documentos\APU2025\Segundo año\Segundo cuatrimestre\Orientacion a Objetos 1\Actividades\.metadata\.plugins\org.eclipse.jdt.core
+1513731006.index
+759071528.index
+1865797976.index
+3274760708.index
+1565816743.index
